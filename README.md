@@ -52,4 +52,4 @@ To advance the development and integration of Sindhi language technology, ensuri
 
 ---
 
-Visit the official website for more information: [https://ambile.pk/about-us/](https://ambile.pk/about-us/)
+Visit the official website for more information: [https://ambile.pk/about-us/](https://ambile.pk)
