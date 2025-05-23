@@ -3,7 +3,7 @@
 # Abdul Majid Bhurgri Institute of Language Engineering (AMBILE)
 
 
-The Abdul Majid Bhurgri Institute of Language Engineering (AMBILE) is a pioneering institution dedicated to advancing the Sindhi language through computational linguistics and natural language processing. Established under the Culture, Tourism, Antiquities, and Archives Department, Government of Sindh, AMBILE aims to elevate the Sindhi language to be on par with national and international languages in all computational processes.
+The Abdul Majid Bhurgri Institute of Language Engineering (AMBILE) Hyderabad is a pioneering institution dedicated to advancing the Sindhi language through computational linguistics and natural language processing. Established under the Culture, Tourism, Antiquities, and Archives Department, Government of Sindh, AMBILE aims to elevate the Sindhi language to be on par with national and international languages in all computational processes.
 
 ![AMBILE Building](ambile-office.jpg)
 
