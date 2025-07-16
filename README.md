@@ -18,7 +18,7 @@ The Abdul Majid Bhurgri Institute of Language Engineering (AMBILE) Hyderabad is 
 ## Leadership
 
 - Abdul-Majid Bhurgri – Lifetime Co-Chairman, Founder of Sindhi Computing  
-- Syed Zulfiqar Ali Shah – Chairman, Minister Culture, Government of Sindh  
+- Syed Zulfiqar Ali Shah – Chairman, Minister of Culture, Government of Sindh  
 - Khair Muhammad Kalwar – Vice Chairman, Secretary Culture, Government of Sindh  
 
 ## History
@@ -39,8 +39,7 @@ The functions of AMBILE, as outlined in "The Abdul Majid Bhurgri Institute of La
 
 ## Mission
 
-To innovate and implement cutting-edge language engineering solutions that preserve, promote, and enhance the Sindhi language by integrating it into modern technological frameworks.
-Also Our mission is to preserve, promote, and innovate Sindhi language technology through research, open-source projects, and cutting-edge AI.
+To innovate and implement cutting-edge language engineering solutions that preserve, promote, and enhance the Sindhi language by integrating it into modern technological frameworks. And Our mission is to preserve, promote, and innovate Sindhi language technology through research, open-source projects, and cutting-edge AI.
 
 ## Vision
 
