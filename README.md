@@ -39,7 +39,7 @@ The functions of AMBILE, as outlined in "The Abdul Majid Bhurgri Institute of La
 
 ## Mission
 
-To innovate and implement cutting-edge language engineering solutions that preserve, promote, and enhance the Sindhi language by integrating it into modern technological frameworks. And Our mission is to preserve, promote, and innovate Sindhi language technology through research, open-source projects, and cutting-edge AI.
+To innovate and implement cutting-edge language engineering solutions that preserve, promote, and enhance the Sindhi language by integrating it into modern technological frameworks, research, open-source projects, and cutting-edge AI.
 
 ## Vision
 
